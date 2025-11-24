@@ -6,3 +6,4 @@ Project `StellarStream-Escrow` tracking log.
 - Project initialized on Stellar Soroban
 - Added gitignore and initial project structure
 - 2025-11-24 14:48:57 - fix: resolve issue in Tailwind CSS theme and responsive vault metrics
+- 2025-11-24 16:08:51 - docs: handle edge case when auto-release window is 0
