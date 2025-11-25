@@ -9,3 +9,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2025-11-24 16:08:51 - docs: handle edge case when auto-release window is 0
 - 2025-11-24 18:03:43 - docs: resolve issue in Tailwind CSS theme and responsive vault metrics
 - 2025-11-24 21:17:51 - style: Vite React TypeScript dashboard scaffolding
+- 2025-11-25 12:58:22 - feat: tune parameters for milestone vault contract initialization
