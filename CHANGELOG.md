@@ -15,3 +15,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2025-11-26 13:00:57 - docs: add unit checks for tripartite dispute arbitration and settlement
 - 2025-11-26 13:07:21 - perf: update handle edge case when auto-release window is 0
 - 2025-11-26 15:10:07 - test: add unit checks for Vite React TypeScript dashboard scaffolding
+- 2025-11-26 22:13:14 - fix: interactive dispute and arbitration modal
