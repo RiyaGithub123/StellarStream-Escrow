@@ -13,3 +13,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2025-11-25 16:09:27 - refactor: enhance add safety check against double milestone submission
 - 2025-11-25 16:57:21 - docs: update add safety check against double milestone submission
 - 2025-11-26 13:00:57 - docs: add unit checks for tripartite dispute arbitration and settlement
+- 2025-11-26 13:07:21 - perf: update handle edge case when auto-release window is 0
