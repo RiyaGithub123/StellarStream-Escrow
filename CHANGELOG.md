@@ -18,3 +18,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2025-11-26 22:13:14 - fix: interactive dispute and arbitration modal
 - 2025-11-28 16:59:59 - style: refactor wallet keypair simulation and friendbot funding implementation
 - 2025-11-28 17:34:57 - test: add unit checks for tripartite dispute arbitration and settlement
+- 2025-11-30 12:12:14 - fix: enhance wallet keypair simulation and friendbot funding
