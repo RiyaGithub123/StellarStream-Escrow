@@ -23,3 +23,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2025-12-01 14:12:59 - perf: tune parameters for Stellar Testnet Horizon RPC client connector
 - 2025-12-02 16:12:21 - feat: update handle edge case when auto-release window is 0
 - 2025-12-02 17:13:45 - refactor: update tripartite dispute arbitration and settlement
+- 2025-12-04 13:17:27 - fix: resolve issue in Stellar Testnet Horizon RPC client connector
