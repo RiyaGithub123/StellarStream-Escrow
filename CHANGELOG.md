@@ -25,3 +25,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2025-12-02 17:13:45 - refactor: update tripartite dispute arbitration and settlement
 - 2025-12-04 13:17:27 - fix: resolve issue in Stellar Testnet Horizon RPC client connector
 - 2025-12-04 16:48:32 - style: add unit checks for wallet keypair simulation and friendbot funding
+- 2025-12-05 09:15:53 - test: resolve issue in anti-ghosting auto-release timelock mechanism
