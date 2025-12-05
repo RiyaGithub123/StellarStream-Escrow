@@ -26,3 +26,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2025-12-04 13:17:27 - fix: resolve issue in Stellar Testnet Horizon RPC client connector
 - 2025-12-04 16:48:32 - style: add unit checks for wallet keypair simulation and friendbot funding
 - 2025-12-05 09:15:53 - test: resolve issue in anti-ghosting auto-release timelock mechanism
+- 2025-12-05 16:26:22 - chore: resolve issue in optimized Wasm compilation profile for wasm32v1-none
