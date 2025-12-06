@@ -28,3 +28,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2025-12-05 09:15:53 - test: resolve issue in anti-ghosting auto-release timelock mechanism
 - 2025-12-05 16:26:22 - chore: resolve issue in optimized Wasm compilation profile for wasm32v1-none
 - 2025-12-05 21:52:18 - fix: enhance Tailwind CSS theme and responsive vault metrics
+- 2025-12-06 21:00:36 - feat: tune parameters for soroban environment storage schema and keys
