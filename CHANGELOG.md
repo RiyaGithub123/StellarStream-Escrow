@@ -31,3 +31,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2025-12-06 21:00:36 - feat: tune parameters for soroban environment storage schema and keys
 - 2025-12-08 21:45:45 - test: tune parameters for tripartite dispute arbitration and settlement
 - 2025-12-09 12:01:28 - chore: tune parameters for handle edge case when auto-release window is 0
+- 2025-12-09 17:13:11 - style: enhance Stellar Testnet Horizon RPC client connector
