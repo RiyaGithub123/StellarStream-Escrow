@@ -33,3 +33,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2025-12-09 12:01:28 - chore: tune parameters for handle edge case when auto-release window is 0
 - 2025-12-09 17:13:11 - style: enhance Stellar Testnet Horizon RPC client connector
 - 2025-12-10 13:26:58 - fix: add unit checks for Vite React TypeScript dashboard scaffolding
+- 2025-12-10 18:13:43 - test: add unit checks for soroban unit test suite for milestone states
