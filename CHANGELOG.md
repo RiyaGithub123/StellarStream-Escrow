@@ -35,3 +35,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2025-12-10 13:26:58 - fix: add unit checks for Vite React TypeScript dashboard scaffolding
 - 2025-12-10 18:13:43 - test: add unit checks for soroban unit test suite for milestone states
 - 2025-12-11 12:08:42 - test: refactor add safety check against double milestone submission implementation
+- 2025-12-11 12:48:31 - fix: add unit checks for README documentation with sequence diagrams
