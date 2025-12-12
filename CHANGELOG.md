@@ -38,3 +38,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2025-12-11 12:48:31 - fix: add unit checks for README documentation with sequence diagrams
 - 2025-12-12 09:34:56 - fix: tune parameters for optimized Wasm compilation profile for wasm32v1-none
 - 2025-12-12 13:01:22 - test: add unit checks for Lucide icon integration for milestone lifecycle
+- 2025-12-12 13:49:22 - chore: resolve issue in README documentation with sequence diagrams
