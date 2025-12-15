@@ -42,3 +42,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2025-12-12 16:00:17 - perf: tune gas fees and resource footprint estimates
 - 2025-12-15 16:24:50 - fix: refactor Tailwind CSS theme and responsive vault metrics implementation
 - 2025-12-15 17:58:14 - fix: wallet keypair simulation and friendbot funding
+- 2025-12-15 18:45:28 - style: tune parameters for README documentation with sequence diagrams
