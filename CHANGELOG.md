@@ -44,3 +44,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2025-12-15 17:58:14 - fix: wallet keypair simulation and friendbot funding
 - 2025-12-15 18:45:28 - style: tune parameters for README documentation with sequence diagrams
 - 2025-12-16 11:21:03 - refactor: anti-ghosting auto-release timelock mechanism
+- 2025-12-16 19:43:16 - perf: enhance handle edge case when auto-release window is 0
