@@ -47,3 +47,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2025-12-16 19:43:16 - perf: enhance handle edge case when auto-release window is 0
 - 2025-12-17 11:12:43 - test: milestone vault contract initialization
 - 2025-12-17 14:38:29 - style: wallet keypair simulation and friendbot funding
+- 2025-12-18 10:03:48 - style: enhance buyer and contractor authorization checks
