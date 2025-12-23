@@ -54,3 +54,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2025-12-18 18:01:32 - style: add unit checks for refactor storage footprint to minimize ledger TTL
 - 2025-12-18 18:33:36 - feat: enhance optimized Wasm compilation profile for wasm32v1-none
 - 2025-12-23 11:27:42 - refactor: tune parameters for Tailwind CSS theme and responsive vault metrics
+- 2025-12-23 11:31:01 - fix: enhance soroban environment storage schema and keys
