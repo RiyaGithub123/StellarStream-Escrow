@@ -55,3 +55,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2025-12-18 18:33:36 - feat: enhance optimized Wasm compilation profile for wasm32v1-none
 - 2025-12-23 11:27:42 - refactor: tune parameters for Tailwind CSS theme and responsive vault metrics
 - 2025-12-23 11:31:01 - fix: enhance soroban environment storage schema and keys
+- 2025-12-25 09:38:32 - feat: resolve issue in tripartite dispute arbitration and settlement
