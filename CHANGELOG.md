@@ -64,3 +64,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2025-12-25 22:34:24 - fix: refactor Tailwind CSS theme and responsive vault metrics implementation
 - 2025-12-26 15:54:50 - refactor: enhance soroban environment storage schema and keys
 - 2025-12-26 15:58:32 - fix: refactor CI build configuration and cargo lint checks implementation
+- 2025-12-26 17:52:12 - docs: tune parameters for README documentation with sequence diagrams
