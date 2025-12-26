@@ -62,3 +62,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2025-12-25 17:31:30 - perf: refactor soroban unit test suite for milestone states implementation
 - 2025-12-25 19:20:36 - style: add unit checks for Lucide icon integration for milestone lifecycle
 - 2025-12-25 22:34:24 - fix: refactor Tailwind CSS theme and responsive vault metrics implementation
+- 2025-12-26 15:54:50 - refactor: enhance soroban environment storage schema and keys
