@@ -65,3 +65,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2025-12-26 15:54:50 - refactor: enhance soroban environment storage schema and keys
 - 2025-12-26 15:58:32 - fix: refactor CI build configuration and cargo lint checks implementation
 - 2025-12-26 17:52:12 - docs: tune parameters for README documentation with sequence diagrams
+- 2025-12-26 20:48:56 - docs: tripartite dispute arbitration and settlement
