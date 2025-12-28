@@ -66,3 +66,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2025-12-26 15:58:32 - fix: refactor CI build configuration and cargo lint checks implementation
 - 2025-12-26 17:52:12 - docs: tune parameters for README documentation with sequence diagrams
 - 2025-12-26 20:48:56 - docs: tripartite dispute arbitration and settlement
+- 2025-12-28 10:36:34 - fix: enhance interactive dispute and arbitration modal
