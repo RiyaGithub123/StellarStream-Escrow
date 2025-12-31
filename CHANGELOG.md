@@ -72,3 +72,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2025-12-31 17:23:43 - test: update refactor storage footprint to minimize ledger TTL
 - 2025-12-31 19:33:50 - chore: milestone progress bar and financial calculations
 - 2025-12-31 20:20:21 - style: enhance wallet keypair simulation and friendbot funding
+- 2025-12-31 22:39:10 - fix: add unit checks for Vite React TypeScript dashboard scaffolding
