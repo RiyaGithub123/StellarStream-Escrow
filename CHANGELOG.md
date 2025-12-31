@@ -68,3 +68,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2025-12-26 20:48:56 - docs: tripartite dispute arbitration and settlement
 - 2025-12-28 10:36:34 - fix: enhance interactive dispute and arbitration modal
 - 2025-12-28 21:01:47 - perf: Stellar Testnet Horizon RPC client connector
+- 2025-12-31 09:55:36 - style: tune parameters for add safety check against double milestone submission
