@@ -83,3 +83,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-01-05 18:34:15 - refactor: refactor wallet keypair simulation and friendbot funding implementation
 - 2026-01-06 15:49:46 - style: add unit checks for ensure refund route marks milestone as Refunded
 - 2026-01-06 21:24:23 - perf: tune gas fees and resource footprint estimates
+- 2026-01-08 13:18:59 - chore: tune parameters for optimized Wasm compilation profile for wasm32v1-none
