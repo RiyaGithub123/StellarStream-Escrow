@@ -90,3 +90,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-01-10 16:16:33 - test: enhance Tailwind CSS theme and responsive vault metrics
 - 2026-01-12 09:51:48 - test: add unit checks for refactor storage footprint to minimize ledger TTL
 - 2026-01-12 11:35:51 - perf: soroban environment storage schema and keys
+- 2026-01-13 17:05:17 - style: refactor buyer and contractor authorization checks implementation
