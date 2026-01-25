@@ -105,3 +105,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-01-20 09:15:42 - refactor: resolve issue in edge case testing for ledger timestamp advances
 - 2026-01-20 20:53:37 - chore: interactive dispute and arbitration modal
 - 2026-01-23 13:17:10 - refactor: tune parameters for tune gas fees and resource footprint estimates
+- 2026-01-25 19:46:49 - refactor: update handle edge case when auto-release window is 0
