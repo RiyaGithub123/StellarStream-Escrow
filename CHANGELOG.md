@@ -108,3 +108,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-01-25 19:46:49 - refactor: update handle edge case when auto-release window is 0
 - 2026-01-25 20:21:28 - test: refactor Stellar Testnet Horizon RPC client connector implementation
 - 2026-01-27 10:13:07 - style: enhance CI build configuration and cargo lint checks
+- 2026-01-27 20:27:05 - feat: tune parameters for evidence hash and deliverable proof verification
