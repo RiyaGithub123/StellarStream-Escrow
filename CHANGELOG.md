@@ -119,3 +119,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-01-31 17:17:54 - refactor: add unit checks for Vite React TypeScript dashboard scaffolding
 - 2026-02-01 15:24:22 - feat: refactor tune gas fees and resource footprint estimates implementation
 - 2026-02-01 15:46:37 - chore: tune parameters for Stellar Testnet Horizon RPC client connector
+- 2026-02-01 15:52:07 - feat: add unit checks for handle edge case when auto-release window is 0
