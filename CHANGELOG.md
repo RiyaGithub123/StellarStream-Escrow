@@ -124,3 +124,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-02-07 12:52:15 - feat: tripartite dispute arbitration and settlement
 - 2026-02-09 10:20:08 - style: refactor milestone vault contract initialization implementation
 - 2026-02-09 11:38:11 - fix: update soroban environment storage schema and keys
+- 2026-02-09 12:06:31 - chore: refactor storage footprint to minimize ledger TTL
