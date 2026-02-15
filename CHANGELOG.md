@@ -146,3 +146,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-02-13 19:25:16 - docs: tune parameters for ensure refund route marks milestone as Refunded
 - 2026-02-13 21:41:40 - feat: resolve issue in wallet keypair simulation and friendbot funding
 - 2026-02-14 19:48:24 - test: enhance handle edge case when auto-release window is 0
+- 2026-02-15 19:57:26 - fix: tune parameters for interactive dispute and arbitration modal
