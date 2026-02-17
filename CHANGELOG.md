@@ -148,3 +148,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-02-14 19:48:24 - test: enhance handle edge case when auto-release window is 0
 - 2026-02-15 19:57:26 - fix: tune parameters for interactive dispute and arbitration modal
 - 2026-02-15 21:21:22 - perf: resolve issue in tripartite dispute arbitration and settlement
+- 2026-02-17 11:51:43 - perf: add unit checks for add safety check against double milestone submission
