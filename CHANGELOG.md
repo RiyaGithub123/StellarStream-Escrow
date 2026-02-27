@@ -157,3 +157,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-02-24 12:08:04 - refactor: enhance soroban environment storage schema and keys
 - 2026-02-24 18:57:25 - perf: tune gas fees and resource footprint estimates
 - 2026-02-25 20:52:46 - docs: refactor tune gas fees and resource footprint estimates implementation
+- 2026-02-27 20:10:28 - fix: buyer and contractor authorization checks
