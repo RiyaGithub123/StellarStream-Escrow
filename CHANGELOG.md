@@ -164,3 +164,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-03-11 11:30:03 - style: resolve issue in soroban environment storage schema and keys
 - 2026-03-11 13:06:14 - style: soroban environment storage schema and keys
 - 2026-03-11 21:11:15 - perf: tune parameters for CI build configuration and cargo lint checks
+- 2026-03-15 11:20:40 - chore: add unit checks for handle edge case when auto-release window is 0
