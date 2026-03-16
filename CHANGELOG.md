@@ -166,3 +166,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-03-11 21:11:15 - perf: tune parameters for CI build configuration and cargo lint checks
 - 2026-03-15 11:20:40 - chore: add unit checks for handle edge case when auto-release window is 0
 - 2026-03-15 22:01:09 - test: tune parameters for optimized Wasm compilation profile for wasm32v1-none
+- 2026-03-16 10:11:23 - chore: add unit checks for README documentation with sequence diagrams
