@@ -179,3 +179,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-03-19 11:09:06 - feat: refactor soroban unit test suite for milestone states implementation
 - 2026-03-19 18:33:19 - fix: buyer and contractor authorization checks
 - 2026-03-19 20:59:56 - chore: enhance Vite React TypeScript dashboard scaffolding
+- 2026-03-24 10:52:09 - fix: tune parameters for Tailwind CSS theme and responsive vault metrics
