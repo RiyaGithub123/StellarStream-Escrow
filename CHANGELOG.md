@@ -185,3 +185,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-03-24 14:55:05 - chore: tune parameters for milestone vault contract initialization
 - 2026-03-24 15:41:42 - fix: update Lucide icon integration for milestone lifecycle
 - 2026-03-24 22:27:23 - test: soroban unit test suite for milestone states
+- 2026-03-26 09:33:41 - fix: update soroban environment storage schema and keys
