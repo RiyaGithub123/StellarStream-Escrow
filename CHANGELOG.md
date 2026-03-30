@@ -193,3 +193,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-03-27 18:43:32 - perf: update milestone vault contract initialization
 - 2026-03-27 19:34:31 - style: tune gas fees and resource footprint estimates
 - 2026-03-30 11:26:32 - refactor: refactor handle edge case when auto-release window is 0 implementation
+- 2026-03-30 16:47:15 - refactor: tune parameters for ensure refund route marks milestone as Refunded
