@@ -195,3 +195,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-03-30 11:26:32 - refactor: refactor handle edge case when auto-release window is 0 implementation
 - 2026-03-30 16:47:15 - refactor: tune parameters for ensure refund route marks milestone as Refunded
 - 2026-03-30 22:15:59 - chore: tune parameters for Tailwind CSS theme and responsive vault metrics
+- 2026-03-31 09:52:38 - chore: enhance add safety check against double milestone submission
