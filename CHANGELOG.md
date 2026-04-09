@@ -212,3 +212,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-04-07 13:20:10 - perf: resolve issue in wallet keypair simulation and friendbot funding
 - 2026-04-07 14:23:28 - docs: milestone progress bar and financial calculations
 - 2026-04-09 14:44:56 - docs: add unit checks for add safety check against double milestone submission
+- 2026-04-09 18:51:46 - feat: add unit checks for tripartite dispute arbitration and settlement
