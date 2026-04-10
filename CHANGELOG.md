@@ -219,3 +219,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-04-10 17:17:08 - refactor: resolve issue in add safety check against double milestone submission
 - 2026-04-10 17:37:32 - test: add unit checks for buyer and contractor authorization checks
 - 2026-04-10 20:56:56 - chore: tune parameters for evidence hash and deliverable proof verification
+- 2026-04-10 22:11:25 - test: enhance buyer and contractor authorization checks
