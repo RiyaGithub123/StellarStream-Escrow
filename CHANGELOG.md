@@ -218,3 +218,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-04-10 15:37:31 - chore: tune parameters for Stellar Testnet Horizon RPC client connector
 - 2026-04-10 17:17:08 - refactor: resolve issue in add safety check against double milestone submission
 - 2026-04-10 17:37:32 - test: add unit checks for buyer and contractor authorization checks
+- 2026-04-10 20:56:56 - chore: tune parameters for evidence hash and deliverable proof verification
