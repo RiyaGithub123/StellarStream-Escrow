@@ -239,3 +239,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-04-20 22:31:10 - chore: tune parameters for add safety check against double milestone submission
 - 2026-04-24 14:47:44 - perf: refactor soroban unit test suite for milestone states implementation
 - 2026-04-24 15:55:06 - feat: refactor tune gas fees and resource footprint estimates implementation
+- 2026-04-24 17:49:00 - test: add unit checks for soroban unit test suite for milestone states
