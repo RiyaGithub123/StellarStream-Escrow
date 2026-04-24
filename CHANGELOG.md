@@ -238,3 +238,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-04-19 18:11:38 - test: enhance wallet keypair simulation and friendbot funding
 - 2026-04-20 22:31:10 - chore: tune parameters for add safety check against double milestone submission
 - 2026-04-24 14:47:44 - perf: refactor soroban unit test suite for milestone states implementation
+- 2026-04-24 15:55:06 - feat: refactor tune gas fees and resource footprint estimates implementation
