@@ -253,3 +253,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-04-28 17:45:25 - fix: enhance Vite React TypeScript dashboard scaffolding
 - 2026-04-28 20:00:07 - chore: resolve issue in evidence hash and deliverable proof verification
 - 2026-04-30 13:35:16 - refactor: refactor Lucide icon integration for milestone lifecycle implementation
+- 2026-05-01 11:18:08 - perf: tune parameters for soroban environment storage schema and keys
