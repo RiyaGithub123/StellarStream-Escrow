@@ -256,3 +256,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-05-01 11:18:08 - perf: tune parameters for soroban environment storage schema and keys
 - 2026-05-01 11:31:43 - feat: tune parameters for refactor storage footprint to minimize ledger TTL
 - 2026-05-01 15:05:16 - test: update edge case testing for ledger timestamp advances
+- 2026-05-01 20:21:28 - style: refactor README documentation with sequence diagrams implementation
