@@ -254,3 +254,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-04-28 20:00:07 - chore: resolve issue in evidence hash and deliverable proof verification
 - 2026-04-30 13:35:16 - refactor: refactor Lucide icon integration for milestone lifecycle implementation
 - 2026-05-01 11:18:08 - perf: tune parameters for soroban environment storage schema and keys
+- 2026-05-01 11:31:43 - feat: tune parameters for refactor storage footprint to minimize ledger TTL
