@@ -260,3 +260,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-05-03 20:24:41 - docs: refactor wallet keypair simulation and friendbot funding implementation
 - 2026-05-04 09:30:34 - test: enhance interactive dispute and arbitration modal
 - 2026-05-04 16:39:12 - perf: resolve issue in refactor storage footprint to minimize ledger TTL
+- 2026-05-04 21:18:47 - docs: add unit checks for tripartite dispute arbitration and settlement
