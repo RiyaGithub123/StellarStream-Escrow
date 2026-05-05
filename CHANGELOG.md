@@ -262,3 +262,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-05-04 16:39:12 - perf: resolve issue in refactor storage footprint to minimize ledger TTL
 - 2026-05-04 21:18:47 - docs: add unit checks for tripartite dispute arbitration and settlement
 - 2026-05-04 21:34:30 - style: tune parameters for wallet keypair simulation and friendbot funding
+- 2026-05-05 14:15:43 - test: resolve issue in handle edge case when auto-release window is 0
