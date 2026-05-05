@@ -266,3 +266,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-05-05 15:42:04 - style: add unit checks for wallet keypair simulation and friendbot funding
 - 2026-05-05 19:52:57 - style: update tune gas fees and resource footprint estimates
 - 2026-05-05 22:08:42 - docs: add unit checks for CI build configuration and cargo lint checks
+- 2026-05-05 22:26:03 - refactor: buyer and contractor authorization checks
