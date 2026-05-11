@@ -276,3 +276,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-05-09 19:00:28 - feat: enhance CI build configuration and cargo lint checks
 - 2026-05-09 20:21:08 - feat: refactor tune gas fees and resource footprint estimates implementation
 - 2026-05-09 21:18:58 - feat: resolve issue in Stellar Testnet Horizon RPC client connector
+- 2026-05-11 12:59:10 - chore: tune parameters for refactor storage footprint to minimize ledger TTL
