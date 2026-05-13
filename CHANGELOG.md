@@ -279,3 +279,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-05-11 12:59:10 - chore: tune parameters for refactor storage footprint to minimize ledger TTL
 - 2026-05-12 13:40:04 - fix: update Tailwind CSS theme and responsive vault metrics
 - 2026-05-12 20:47:03 - test: enhance add safety check against double milestone submission
+- 2026-05-13 11:44:03 - refactor: enhance README documentation with sequence diagrams
