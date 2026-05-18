@@ -289,3 +289,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-05-17 13:04:19 - feat: tune parameters for edge case testing for ledger timestamp advances
 - 2026-05-17 13:38:02 - fix: update tripartite dispute arbitration and settlement
 - 2026-05-18 15:47:48 - chore: update Vite React TypeScript dashboard scaffolding
+- 2026-05-18 21:04:25 - fix: add unit checks for handle edge case when auto-release window is 0
