@@ -297,3 +297,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-05-22 12:02:28 - docs: update milestone progress bar and financial calculations
 - 2026-05-22 12:28:45 - refactor: update refactor storage footprint to minimize ledger TTL
 - 2026-05-22 14:54:26 - fix: update tune gas fees and resource footprint estimates
+- 2026-05-22 19:40:42 - chore: enhance soroban environment storage schema and keys
