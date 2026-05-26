@@ -299,3 +299,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-05-22 14:54:26 - fix: update tune gas fees and resource footprint estimates
 - 2026-05-22 19:40:42 - chore: enhance soroban environment storage schema and keys
 - 2026-05-24 20:58:36 - feat: refactor edge case testing for ledger timestamp advances implementation
+- 2026-05-26 17:41:45 - fix: add unit checks for milestone progress bar and financial calculations
