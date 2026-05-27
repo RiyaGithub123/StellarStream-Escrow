@@ -302,3 +302,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-05-26 17:41:45 - fix: add unit checks for milestone progress bar and financial calculations
 - 2026-05-26 18:55:41 - test: resolve issue in interactive dispute and arbitration modal
 - 2026-05-27 13:51:20 - refactor: milestone vault contract initialization
+- 2026-05-27 18:29:00 - fix: resolve issue in soroban environment storage schema and keys
