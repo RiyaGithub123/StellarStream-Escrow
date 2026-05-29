@@ -309,3 +309,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-05-28 19:10:02 - chore: refactor milestone progress bar and financial calculations implementation
 - 2026-05-29 11:28:33 - feat: add safety check against double milestone submission
 - 2026-05-29 13:58:36 - test: tune parameters for Stellar Testnet Horizon RPC client connector
+- 2026-05-29 15:06:02 - docs: refactor handle edge case when auto-release window is 0 implementation
