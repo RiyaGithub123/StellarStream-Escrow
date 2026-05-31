@@ -310,3 +310,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-05-29 11:28:33 - feat: add safety check against double milestone submission
 - 2026-05-29 13:58:36 - test: tune parameters for Stellar Testnet Horizon RPC client connector
 - 2026-05-29 15:06:02 - docs: refactor handle edge case when auto-release window is 0 implementation
+- 2026-05-31 12:16:24 - fix: tune parameters for Stellar Testnet Horizon RPC client connector
