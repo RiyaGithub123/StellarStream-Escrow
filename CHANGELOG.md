@@ -317,3 +317,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-06-01 10:42:23 - perf: refactor soroban environment storage schema and keys implementation
 - 2026-06-01 11:22:37 - chore: add unit checks for ensure refund route marks milestone as Refunded
 - 2026-06-01 16:15:54 - chore: edge case testing for ledger timestamp advances
+- 2026-06-01 22:24:05 - test: enhance handle edge case when auto-release window is 0
