@@ -318,3 +318,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-06-01 11:22:37 - chore: add unit checks for ensure refund route marks milestone as Refunded
 - 2026-06-01 16:15:54 - chore: edge case testing for ledger timestamp advances
 - 2026-06-01 22:24:05 - test: enhance handle edge case when auto-release window is 0
+- 2026-06-02 14:49:26 - test: resolve issue in wallet keypair simulation and friendbot funding
