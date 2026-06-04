@@ -322,3 +322,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-06-02 18:59:05 - chore: enhance milestone vault contract initialization
 - 2026-06-03 12:03:49 - chore: tune parameters for optimized Wasm compilation profile for wasm32v1-none
 - 2026-06-03 16:24:55 - perf: refactor storage footprint to minimize ledger TTL
+- 2026-06-04 10:57:26 - refactor: enhance ensure refund route marks milestone as Refunded
