@@ -333,3 +333,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-06-09 21:59:06 - chore: tune parameters for refactor storage footprint to minimize ledger TTL
 - 2026-06-10 11:25:17 - style: add unit checks for refactor storage footprint to minimize ledger TTL
 - 2026-06-10 12:30:27 - docs: add unit checks for evidence hash and deliverable proof verification
+- 2026-06-10 14:57:53 - feat: update soroban unit test suite for milestone states
