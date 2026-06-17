@@ -340,3 +340,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-06-16 16:35:34 - style: add unit checks for Stellar Testnet Horizon RPC client connector
 - 2026-06-16 17:10:07 - refactor: tune parameters for CI build configuration and cargo lint checks
 - 2026-06-17 10:16:44 - fix: add unit checks for buyer and contractor authorization checks
+- 2026-06-17 17:47:00 - refactor: tune parameters for anti-ghosting auto-release timelock mechanism
