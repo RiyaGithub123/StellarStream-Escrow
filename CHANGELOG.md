@@ -342,3 +342,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-06-17 10:16:44 - fix: add unit checks for buyer and contractor authorization checks
 - 2026-06-17 17:47:00 - refactor: tune parameters for anti-ghosting auto-release timelock mechanism
 - 2026-06-17 19:49:23 - docs: enhance wallet keypair simulation and friendbot funding
+- 2026-06-18 16:16:31 - feat: tune parameters for buyer and contractor authorization checks
