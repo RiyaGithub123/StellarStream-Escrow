@@ -345,3 +345,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-06-18 16:16:31 - feat: tune parameters for buyer and contractor authorization checks
 - 2026-06-18 20:29:02 - refactor: refactor tripartite dispute arbitration and settlement implementation
 - 2026-06-18 21:58:21 - chore: Stellar Testnet Horizon RPC client connector
+- 2026-06-20 19:18:18 - fix: update milestone progress bar and financial calculations
