@@ -363,3 +363,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-06-29 21:18:03 - test: enhance milestone progress bar and financial calculations
 - 2026-06-30 09:40:13 - refactor: enhance anti-ghosting auto-release timelock mechanism
 - 2026-06-30 13:00:19 - test: add unit checks for CI build configuration and cargo lint checks
+- 2026-06-30 14:02:05 - perf: update soroban unit test suite for milestone states
