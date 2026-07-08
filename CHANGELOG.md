@@ -374,3 +374,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-07-07 21:51:03 - fix: update Lucide icon integration for milestone lifecycle
 - 2026-07-07 22:17:22 - fix: add unit checks for soroban environment storage schema and keys
 - 2026-07-08 15:04:55 - fix: tune parameters for soroban unit test suite for milestone states
+- 2026-07-08 19:13:41 - perf: add unit checks for ensure refund route marks milestone as Refunded
