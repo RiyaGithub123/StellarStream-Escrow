@@ -375,3 +375,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-07-07 22:17:22 - fix: add unit checks for soroban environment storage schema and keys
 - 2026-07-08 15:04:55 - fix: tune parameters for soroban unit test suite for milestone states
 - 2026-07-08 19:13:41 - perf: add unit checks for ensure refund route marks milestone as Refunded
+- 2026-07-09 17:14:05 - refactor: add unit checks for milestone vault contract initialization
