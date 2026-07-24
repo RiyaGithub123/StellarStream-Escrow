@@ -385,3 +385,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-07-16 22:33:48 - refactor: refactor anti-ghosting auto-release timelock mechanism implementation
 - 2026-07-24 11:51:12 - refactor: add unit checks for Vite React TypeScript dashboard scaffolding
 - 2026-07-24 11:56:53 - style: enhance anti-ghosting auto-release timelock mechanism
+- 2026-07-24 17:49:10 - test: tune parameters for README documentation with sequence diagrams
