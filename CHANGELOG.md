@@ -394,3 +394,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-07-30 15:44:41 - test: enhance CI build configuration and cargo lint checks
 - 2026-07-30 16:56:08 - chore: add unit checks for add safety check against double milestone submission
 - 2026-07-30 21:30:42 - style: resolve issue in soroban unit test suite for milestone states
+- 2026-08-01 13:57:51 - chore: refactor tune gas fees and resource footprint estimates implementation
