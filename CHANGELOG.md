@@ -407,3 +407,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-08-05 22:41:15 - docs: refactor handle edge case when auto-release window is 0 implementation
 - 2026-08-06 09:42:02 - refactor: update refactor storage footprint to minimize ledger TTL
 - 2026-08-06 14:34:03 - test: resolve issue in refactor storage footprint to minimize ledger TTL
+- 2026-08-06 16:52:42 - perf: add unit checks for tripartite dispute arbitration and settlement
