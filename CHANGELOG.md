@@ -419,3 +419,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-08-10 17:30:38 - docs: add unit checks for wallet keypair simulation and friendbot funding
 - 2026-08-10 18:16:45 - test: enhance wallet keypair simulation and friendbot funding
 - 2026-08-10 21:57:21 - feat: resolve issue in add safety check against double milestone submission
+- 2026-08-11 09:46:50 - fix: update refactor storage footprint to minimize ledger TTL
