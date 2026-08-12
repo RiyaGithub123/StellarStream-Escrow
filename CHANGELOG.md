@@ -427,3 +427,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-08-11 21:32:48 - test: refactor milestone vault contract initialization implementation
 - 2026-08-11 22:03:26 - perf: enhance add safety check against double milestone submission
 - 2026-08-12 17:34:18 - fix: enhance Vite React TypeScript dashboard scaffolding
+- 2026-08-12 19:27:14 - feat: tune parameters for refactor storage footprint to minimize ledger TTL
