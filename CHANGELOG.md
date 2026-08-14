@@ -431,3 +431,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-08-12 21:06:04 - docs: refactor evidence hash and deliverable proof verification implementation
 - 2026-08-14 11:57:31 - feat: tune parameters for Vite React TypeScript dashboard scaffolding
 - 2026-08-14 13:09:45 - refactor: update soroban unit test suite for milestone states
+- 2026-08-14 15:07:37 - test: add unit checks for tripartite dispute arbitration and settlement
