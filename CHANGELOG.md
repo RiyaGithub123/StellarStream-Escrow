@@ -434,3 +434,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-08-14 15:07:37 - test: add unit checks for tripartite dispute arbitration and settlement
 - 2026-08-17 11:02:20 - docs: resolve issue in wallet keypair simulation and friendbot funding
 - 2026-08-17 22:18:43 - refactor: update optimized Wasm compilation profile for wasm32v1-none
+- 2026-08-18 21:27:41 - perf: resolve issue in ensure refund route marks milestone as Refunded
