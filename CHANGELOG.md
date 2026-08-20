@@ -437,3 +437,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-08-18 21:27:41 - perf: resolve issue in ensure refund route marks milestone as Refunded
 - 2026-08-18 21:32:49 - chore: tune parameters for refactor storage footprint to minimize ledger TTL
 - 2026-08-18 22:05:41 - fix: tune parameters for README documentation with sequence diagrams
+- 2026-08-20 13:50:57 - perf: resolve issue in wallet keypair simulation and friendbot funding
