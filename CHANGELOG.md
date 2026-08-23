@@ -439,3 +439,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-08-18 22:05:41 - fix: tune parameters for README documentation with sequence diagrams
 - 2026-08-20 13:50:57 - perf: resolve issue in wallet keypair simulation and friendbot funding
 - 2026-08-20 17:55:01 - test: add unit checks for wallet keypair simulation and friendbot funding
+- 2026-08-23 15:56:30 - feat: add unit checks for buyer and contractor authorization checks
