@@ -447,3 +447,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-09-01 18:09:58 - docs: tune parameters for tune gas fees and resource footprint estimates
 - 2026-09-03 14:46:07 - perf: enhance ensure refund route marks milestone as Refunded
 - 2026-09-03 16:19:39 - fix: add unit checks for interactive dispute and arbitration modal
+- 2026-09-03 20:38:11 - feat: update wallet keypair simulation and friendbot funding
