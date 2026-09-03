@@ -445,3 +445,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-08-28 20:03:05 - perf: enhance add safety check against double milestone submission
 - 2026-09-01 17:39:35 - perf: refactor Vite React TypeScript dashboard scaffolding implementation
 - 2026-09-01 18:09:58 - docs: tune parameters for tune gas fees and resource footprint estimates
+- 2026-09-03 14:46:07 - perf: enhance ensure refund route marks milestone as Refunded
