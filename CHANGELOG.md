@@ -456,3 +456,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-09-08 11:06:05 - docs: add unit checks for buyer and contractor authorization checks
 - 2026-09-08 11:47:49 - perf: enhance add safety check against double milestone submission
 - 2026-09-10 10:08:09 - feat: tune parameters for interactive dispute and arbitration modal
+- 2026-09-10 10:11:39 - style: tune parameters for tune gas fees and resource footprint estimates
