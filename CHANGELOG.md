@@ -493,3 +493,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-10-02 17:01:41 - perf: tune parameters for soroban unit test suite for milestone states
 - 2026-10-02 18:23:21 - feat: resolve issue in Vite React TypeScript dashboard scaffolding
 - 2026-10-02 18:37:46 - perf: enhance milestone vault contract initialization
+- 2026-10-06 12:33:52 - chore: resolve issue in Stellar Testnet Horizon RPC client connector
