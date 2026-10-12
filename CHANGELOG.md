@@ -499,3 +499,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-10-12 12:20:20 - style: resolve issue in tune gas fees and resource footprint estimates
 - 2026-10-12 18:08:40 - test: resolve issue in CI build configuration and cargo lint checks
 - 2026-10-12 20:04:01 - chore: Tailwind CSS theme and responsive vault metrics
+- 2026-10-12 22:14:22 - test: update handle edge case when auto-release window is 0
