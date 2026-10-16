@@ -503,3 +503,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-10-13 15:26:28 - fix: add unit checks for Stellar Testnet Horizon RPC client connector
 - 2026-10-15 09:50:52 - chore: enhance evidence hash and deliverable proof verification
 - 2026-10-15 22:28:34 - chore: enhance ensure refund route marks milestone as Refunded
+- 2026-10-16 09:27:28 - perf: milestone progress bar and financial calculations
