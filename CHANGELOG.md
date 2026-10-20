@@ -507,3 +507,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-10-16 13:39:46 - docs: resolve issue in refactor storage footprint to minimize ledger TTL
 - 2026-10-16 18:55:38 - chore: update anti-ghosting auto-release timelock mechanism
 - 2026-10-20 13:24:32 - docs: add unit checks for Tailwind CSS theme and responsive vault metrics
+- 2026-10-20 16:17:30 - feat: milestone progress bar and financial calculations
