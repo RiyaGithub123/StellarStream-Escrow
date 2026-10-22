@@ -509,3 +509,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-10-20 13:24:32 - docs: add unit checks for Tailwind CSS theme and responsive vault metrics
 - 2026-10-20 16:17:30 - feat: milestone progress bar and financial calculations
 - 2026-10-22 11:47:00 - perf: edge case testing for ledger timestamp advances
+- 2026-10-22 14:25:14 - chore: tune parameters for milestone vault contract initialization
