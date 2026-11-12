@@ -539,3 +539,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-11-12 09:28:44 - fix: resolve issue in evidence hash and deliverable proof verification
 - 2026-11-12 16:29:40 - test: tune parameters for handle edge case when auto-release window is 0
 - 2026-11-12 19:58:52 - style: add unit checks for CI build configuration and cargo lint checks
+- 2026-11-12 21:18:02 - chore: add unit checks for ensure refund route marks milestone as Refunded
