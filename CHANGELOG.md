@@ -536,3 +536,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-11-10 10:19:08 - fix: refactor Stellar Testnet Horizon RPC client connector implementation
 - 2026-11-10 19:48:56 - chore: handle edge case when auto-release window is 0
 - 2026-11-10 19:50:34 - docs: enhance tune gas fees and resource footprint estimates
+- 2026-11-12 09:28:44 - fix: resolve issue in evidence hash and deliverable proof verification
