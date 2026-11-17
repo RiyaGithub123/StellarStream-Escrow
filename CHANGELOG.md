@@ -546,3 +546,4 @@ Project `StellarStream-Escrow` tracking log.
 - 2026-11-16 10:05:39 - test: add unit checks for evidence hash and deliverable proof verification
 - 2026-11-16 11:31:22 - perf: edge case testing for ledger timestamp advances
 - 2026-11-16 12:48:00 - fix: refactor buyer and contractor authorization checks implementation
+- 2026-11-17 13:23:12 - fix: Stellar Testnet Horizon RPC client connector
