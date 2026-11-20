@@ -1,4 +1,4 @@
-# Project 1: StellarStream Escrow
+# Project : StellarStream Escrow
 
 > **Autonomous Milestone Smart Vault with Anti-Ghosting Timelocks on Stellar & Soroban**
 
